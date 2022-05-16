@@ -1,0 +1,15 @@
+.about_card  {
+    width:200px;
+    border:1px solid red
+}
+.about_map_wrap {
+    display: flex;
+    justify-content: space-between;
+}
+.about_card img {
+    width: 100%;
+    height: 100px;
+}
+.about_card span {
+    color: black;
+}
